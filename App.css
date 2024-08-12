@@ -1,0 +1,18 @@
+.todoHeading {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+.items-container,
+.todo-container {
+  text-align: left;
+}
+
+.todod-row {
+  margin: 10px 5px;
+}
+
+.todo-button {
+  min-width: 80px;
+}
